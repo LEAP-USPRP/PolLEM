@@ -2,6 +2,7 @@
 
 [<img align="right" width="250"  src="imagens/biotasintese.png">](https://biotasintese.iea.usp.br/pt/)
 [DOI: 10.5281/zenodo.11527589](https://zenodo.org/records/11527608#:~:text=10.5281/zenodo.11527589)
+
 Autores
 Eduardo Freitas Moreira&sup1; *, Luara Tourinho&sup1; , Rafael Chaves&sup2; , Danilo Boscolo&sup1;&sup3;
 
