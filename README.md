@@ -1,6 +1,7 @@
 # PolLEM SP - Pollination Landscape Evaluation Model in São Paulo (Modelo de Avaliação da Polinização na Paisagem em São Paulo).
 
-<img align="right" width="250"  src="imagens/biotasintese.png">(https://biotasintese.iea.usp.br/pt/)
+[<img align="right" width="250"  src="imagens/biotasintese.png">](https://biotasintese.iea.usp.br/pt/)
+[DOI: 10.5281/zenodo.11527589](https://zenodo.org/records/11527608#:~:text=10.5281/zenodo.11527589)
 
 Autores
 Eduardo Freitas Moreira&sup1; *, Luara Tourinho&sup1; , Rafael Chaves&sup2; , Danilo Boscolo&sup1;&sup3;
@@ -13,7 +14,6 @@ Eduardo Freitas Moreira&sup1; *, Luara Tourinho&sup1; , Rafael Chaves&sup2; , Da
 <sup>*Autor correspondente: efmoreira@usp.br<sup>
 
 O objetivo deste repositório é apresentar resultados de um modelo espacialmente explícito da provisão potencial de polinização baseado na estrutura de oferta, fluxo e demanda, proposta por Metzger et al. (2021), bem como valorar esse serviço para a produção agrícola do estado de São Paulo. Esse modelo, desenvolvido no âmbito do programa [Biota Síntese](https://biotasintese.iea.usp.br/pt/), supera muitas das deficiências das abordagens tradicionais ao estimar o fornecimento de polinização. O modelo foi elaborado e aplicado para todo o estado de São Paulo, de forma a possibilitar a identificação de possíveis aderências e desafios para a incorporação e utilização do modelo em políticas públicas paulistas.
-
 
 
 ## Sobre o modelo
