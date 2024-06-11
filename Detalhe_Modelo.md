@@ -1,5 +1,6 @@
 # PolLEM SP - Pollination Landscape Evaluation Model in São Paulo (Modelo de Avaliação da Polinização na Paisagem em São Paulo).
 ### Autores: Eduardo Freitas Moreira, Luara Tourinho, Rafael Chaves, Danilo Boscolo
+[DOI: 10.5281/zenodo.11527589](https://zenodo.org/records/11527608#:~:text=10.5281/zenodo.11527589)
 
 O presente documento detalha o funcionamento interno do modelo PolLEM e como foram gerados os dados apresentados na Quarta Nota Técnica do Projeto Biota Síntese, constantes neste repositório.
 
@@ -71,7 +72,7 @@ Onde 〖VPdef〗_ij corresponde ao valor monetário do déficit de serviço de p
 
 
 ###Arquivos
-Os arquivos de entrada, os produtos intermediários, bem como os resultados finais do POLLEM disponíveis na base de dados estão listados abaixo.
+Os arquivos de entrada, os produtos intermediários, bem como os resultados finais do PolLEM disponíveis na base de dados estão listados abaixo.
 
 ###Camadas raster (GeoTIFF):
 1.	Camadas de base
@@ -120,6 +121,7 @@ Camadas vetoriais (Shapefile)
 6.	Unidade Hidrográfica de Gerenciamento de Recursos Hídricos (UGRHI):
 6.1.	Soma média e desvio padrão da oferta de polinizadores nas UGRHI do estado de São Paulo
 6.2.	Soma média e desvio padrão do serviço e déficit de polinização nas Unidade Hidrográfica de Gerenciamento de Recursos Hídricos (UGRHI) do estado de São Paulo
+
 7.	Valor do serviço de polinização (ano de referência 2022):
 7.1.	Valor do serviço e déficit de polinização para os municípios paulistas considerando todos os cultivos dependentes de polinização
 7.2.	Valor do serviço e déficit de polinização para os municípios paulistas considerando o cultivo da soja
@@ -130,15 +132,18 @@ Camadas vetoriais (Shapefile)
 
 
 ### Referências
-Metzger, J.P., Villarreal-Rosas, J., Suárez-Castro, A.F., López-Cubillos, S., González-Chaves, A., Runting, R.K., Hohlenwerger, C. and Rhodes, J.R., 2021. Considering landscape-level processes in ecosystem service assessments. Science of The Total Environment, 796, p.149028. [https://doi.org/10.1016/j.scitotenv.2021.149028](https://doi.org/10.1016/j.scitotenv.2021.149028)
+Metzger, J.P., Villarreal-Rosas, J., Suárez-Castro, A.F., López-Cubillos, S., González-Chaves, A., Runting, R.K., Hohlenwerger, C. and Rhodes, J.R., 2021. Considering landscape-level processes in ecosystem service assessments. Science of The Total Environment, 796, p.149028. [DOI: 10.1016/j.scitotenv.2021.149028](https://doi.org/10.1016/j.scitotenv.2021.149028)
 
-Lang, N., Jetz, W., Schindler, K. and Wegner, J.D., 2023. A high-resolution canopy height model of the Earth. Nature Ecology & Evolution, 7(11), pp.1778-1789. [https://doi.org/10.1038/s41559-023-02206-6](https://doi.org/10.1038/s41559-023-02206-6)
+Lang, N., Jetz, W., Schindler, K. and Wegner, J.D., 2023. A high-resolution canopy height model of the Earth. Nature Ecology & Evolution, 7(11), pp.1778-1789. [DOI: 10.1038/s41559-023-02206-6](https://doi.org/10.1038/s41559-023-02206-6)
 
-Siopa, C., Carvalheiro, L.G., Castro, H., Loureiro, J. and Castro, S., 2024. Animal‐pollinated crops and cultivars—A quantitative assessment of pollinator dependence values and evaluation of methodological approaches. Journal of Applied Ecology. [https://doi.org/10.1111/1365-2664.14634](https://doi.org/10.1111/1365-2664.14634)
+Siopa, C., Carvalheiro, L.G., Castro, H., Loureiro, J. and Castro, S., 2024. Animal‐pollinated crops and cultivars—A quantitative assessment of pollinator dependence values and evaluation of methodological approaches. Journal of Applied Ecology. [DOI: 10.1111/1365-2664.14634](https://doi.org/10.1111/1365-2664.14634)
 
+Stein, A., Gerstner, K. and Kreft, H., 2014. Environmental heterogeneity as a universal driver of species richness across taxa, biomes and spatial scales. Ecology letters, 17(7), pp.866-880. [DOI: 10.1111/ele.12277](https://doi.org/10.1111/ele.12277)
+
+
+Financiamento: Programa [Biota Fapesp](https://fapesp.br/biota/)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Stein, A., Gerstner, K. and Kreft, H., 2014. Environmental heterogeneity as a universal driver of species richness across taxa, biomes and spatial scales. Ecology letters, 17(7), pp.866-880. https://doi.org/10.1111/ele.12277
 
